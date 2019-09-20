@@ -1,6 +1,6 @@
 # JAVA-multithreading-
 
-package assignment.pkg3;
+
 import java.util.Scanner;
 import java.util.*;
 import java.lang.*;
